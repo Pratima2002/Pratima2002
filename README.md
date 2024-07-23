@@ -9,11 +9,9 @@
  	name = 'Pratima'
 	current_education = "B.Tech IT"
 	hobbies = [
-				'Painting',
-				'Watching Series :)',
-				'Reading Sci-Fi Novels',
-		                'Making friends ...'
-				
+				'Graphic Designing',
+				'Reading Books',
+				'Reading Sci-Fi Novels';
         			
 			]
 			
