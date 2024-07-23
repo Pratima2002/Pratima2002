@@ -1,5 +1,37 @@
-<h1 align="center">Hi 👋, I'm Swayam</h1>
-<h3 align="center">A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.</h3>
+<h1 align="center">Hi 👋, I'm Pratima</h1>
+## Who am I :point_down:?
+```python
+ from Pratima import personal_details
+ # from Sanchari_Personal import personal_ambitions
+ 
+ class WhoAmI:
+ 	name = 'Pratima '
+	current_education = "B.Tech IT"
+	hobbies = [
+				'Painting',
+				'Watching Series :)',
+				'Reading Sci-Fi Novels',
+		                'Making friends ...'
+				
+        			
+			]
+			
+	# return city name ...
+	def getCity():
+		return Kolkata_India()
+		
+	# return public ambitions ...
+	def Ambitions():
+		Be_A_Successful_Woman()
+		Contribute_My_Skills_For_Betterment()
+		Be_The_Best()
+		# assume 10  more ambitions here ;)
+		
+		
+	
+```
+
+			
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I'm a Full Stack Web Developer and Android Developer
