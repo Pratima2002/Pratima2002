@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Pratima</h1>
+
 ## Who am I :point_down:?
 ```python
  from Pratima import personal_details
  # from Sanchari_Personal import personal_ambitions
  
  class WhoAmI:
- 	name = 'Pratima '
+ 	name = 'Pratima'
 	current_education = "B.Tech IT"
 	hobbies = [
 				'Painting',
@@ -30,6 +31,8 @@
 		
 	
 ```
+
+			
 
 			
 
