@@ -7,7 +7,7 @@
  
  class WhoAmI:
  	name = 'Pratima Chaudhury'
-	current_education = "B.Tech IT"
+	current_education = "B.Tech - Information Technology"
 	hobbies = [
 				'Graphic Designing',
 				'Reading Books' ;
