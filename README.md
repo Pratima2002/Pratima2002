@@ -3,7 +3,7 @@
 ## Who am I :point_down:?
 ```python
  from Pratima import personal_details
- # from Sanchari_Personal import personal_ambitions
+
  
  class WhoAmI:
  	name = 'Pratima Chaudhury'
